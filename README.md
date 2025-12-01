@@ -1,1 +1,1 @@
-<object data="https://github.com/SidorovAI-224/Movies-Classification-Algorithms/raw/main/Сідоров_АІ-224_РГР_ПЗ.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="https://github.com/SidorovAI-224/Movies-Classification-Algorithms/blob/9fb4c0a43cc034bdf8589e8ad91f1d7b93fe0559/%D0%A1%D1%96%D0%B4%D0%BE%D1%80%D0%BE%D0%B2_%D0%90%D0%86-224_%D0%A0%D0%93%D0%A0_%D0%9F%D0%97.pdf" width="1000" height="1000" type='application/pdf'/>
