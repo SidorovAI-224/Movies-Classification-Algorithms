@@ -1,5 +1,4 @@
-<object data="https://github.com/SidorovAI-224/Movies-Classification-Algorithms/raw/main/Sidorov_AI-224_Calculation-and-Graphic-Work.pdf"
-        type="application/pdf"
+<iframe src="https://drive.google.com/file/d/1-fzXOSiPocJxNofvklXl9lsIb4NMyMq9/view?usp=sharing"
         width="100%"
-        height="1000px">
-</object>
+        height="1000">
+</iframe>
